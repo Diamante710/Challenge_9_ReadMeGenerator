@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-*[Project Description](#Project-Description)
-*[Screenshot and Video Link](#Screenshot)
-*[Video Link](#Video-Link)
-*[License](#License)
-*[Contact Information](#Contact-Information)
+* [Project Description](#Project-Description)
+* [Screenshot -A](#Screenshot)
+* [Video Link](#Video-Link)
+* [License](#License)
+* [Contact Information](#Contact-Information)
 
 
 ## <a name="Project Description"></a>Project Description
