@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Project Description](#Project-Description)
-* [Screenshot -A](#Screenshot)
+* [Screenshot](#Screenshot)
 * [Video Link](#Video-Link)
 * [License](#License)
 * [Contact Information](#Contact-Information)
